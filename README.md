@@ -121,4 +121,4 @@ python main.py
 
 ---
 
-Приложение для поиска музыки у себя на компьютере или в ютубе
+Program for searching music on your computer or on YouTube
