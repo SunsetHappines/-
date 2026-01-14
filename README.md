@@ -40,7 +40,7 @@
 
 1) Клонировать репозиторий:
 bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/SunsetHappines/-.git
 cd <repo-name>
 
 2) Создать виртуальное окружение и активировать:
