@@ -65,7 +65,7 @@ pip install pyqt6 python-vlc SpeechRecognition requests yt-dlp pyaudio
 
 - Папки с музыкой:
 python
-MUSIC_FOLDERS = [r"C:\Users\apati\Music"]
+MUSIC_FOLDERS = [r"C:\Users"]
 
 - База данных:
 python
